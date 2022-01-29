@@ -1,6 +1,6 @@
 ﻿Process,Processing Time,Priority,Arrival Time
 P1,11,2,0
-P2,28,0,5
+P2,28,0,0
 P3,2,3,12
 P4,10,1,2
 P5,16,4,9
